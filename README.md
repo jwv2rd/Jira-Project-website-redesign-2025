@@ -72,7 +72,7 @@ Feel free to connect or reach out if you're hiring for Agile, PM, or Product rol
 ## 📬 Contact
 
 **Joshua Varner**  
-📧 [your.email@example.com]  
+📧 [jwv.arner@outlook.com](mailto:jwv.arner@outlook.com)  
 🔗 [linkedin.com/in/joshua-varner](https://linkedin.com/in/joshuawvarner)
 
 ---
