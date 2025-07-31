@@ -49,7 +49,6 @@ Welcome! This is a showcase of a complete Jira Scrum project I created to simula
 
 - 📄 `Jira_Showcase_Joshua_Varner.pdf` — Portfolio-ready PDF with screenshots and project summary
 - 📸 Jira Screenshots — Backlog, Board, Dashboard, Summary
-- 🧩 CSV file of structured Epics and Stories (optional)
 
 ---
 
